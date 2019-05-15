@@ -1,5 +1,4 @@
 # 在ubuntu 16.04LTS下安装新字体
----
     sudo mkdir /usr/share/fonts/[xxx]
     sudo cp simsun.ttf /usr/share/fonts/[xxx]
     sudo chmod 644 /usr/share/fonts/[xxx]/*
